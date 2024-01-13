@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D389F8E7-1CC7-4E99-A774-BDDB0D04AD97"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D997B62E-B704-4280-899F-CCCE3FECD1A9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HotelBooking/AddRegistrationTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "AddRegistrationTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D997B62E-B704-4280-899F-CCCE3FECD1A9 - 292eb9ac7aa2c9dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelBooking.AddRegistrationTableViewController.CheckOutDateLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "HotelBooking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/HotelBooking/HotelBooking/AddRegistrationTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "D997B62E-B704-4280-899F-CCCE3FECD1A9 - 6d6fd81ed1034ed1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelBooking.AddRegistrationTableViewController.CheckOutDateLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "HotelBooking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/HotelBooking/HotelBooking/AddRegistrationTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "D997B62E-B704-4280-899F-CCCE3FECD1A9 - 5b0fb907c7ef07b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelBooking.AddRegistrationTableViewController.CheckOutDateLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "HotelBooking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/HotelBooking/HotelBooking/AddRegistrationTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "D997B62E-B704-4280-899F-CCCE3FECD1A9 - 9e316902a0777d7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelBooking.AddRegistrationTableViewController.CheckOutDateLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "HotelBooking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/HotelBooking/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "D997B62E-B704-4280-899F-CCCE3FECD1A9 - 3eea87d8dccd0cfb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelBooking.AddRegistrationTableViewController.init(style: __C.UITableViewStyle) -&gt; HotelBooking.AddRegistrationTableViewController"
+                  moduleName = "HotelBooking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/HotelBooking/HotelBooking/AddRegistrationTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "388">
+               </Location>
+               <Location
+                  uuid = "D997B62E-B704-4280-899F-CCCE3FECD1A9 - 7ef11e25005d506d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelBooking.AddRegistrationTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; HotelBooking.AddRegistrationTableViewController"
+                  moduleName = "HotelBooking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/HotelBooking/HotelBooking/AddRegistrationTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "412">
+               </Location>
+               <Location
+                  uuid = "D997B62E-B704-4280-899F-CCCE3FECD1A9 - dd461f8eea9e1fae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelBooking.AddRegistrationTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;HotelBooking.AddRegistrationTableViewController&gt;"
+                  moduleName = "HotelBooking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/HotelBooking/HotelBooking/AddRegistrationTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "388">
+               </Location>
+               <Location
+                  uuid = "D997B62E-B704-4280-899F-CCCE3FECD1A9 - d053e7e5be5f91a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelBooking.AddRegistrationTableViewController.CheckInDateLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "HotelBooking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/HotelBooking/HotelBooking/AddRegistrationTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "D997B62E-B704-4280-899F-CCCE3FECD1A9 - 2dd76383da927fae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelBooking.AddRegistrationTableViewController.CheckInDateLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "HotelBooking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/HotelBooking/HotelBooking/AddRegistrationTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "D997B62E-B704-4280-899F-CCCE3FECD1A9 - 5f902c00c2b78340"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelBooking.AddRegistrationTableViewController.CheckInDateLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "HotelBooking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/HotelBooking/HotelBooking/AddRegistrationTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "D997B62E-B704-4280-899F-CCCE3FECD1A9 - 37cd9bd7ce377a55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelBooking.AddRegistrationTableViewController.CheckInDateLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "HotelBooking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/HotelBooking/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "D997B62E-B704-4280-899F-CCCE3FECD1A9 - 3eea87d8dccd0cfb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelBooking.AddRegistrationTableViewController.init(style: __C.UITableViewStyle) -&gt; HotelBooking.AddRegistrationTableViewController"
+                  moduleName = "HotelBooking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/HotelBooking/HotelBooking/AddRegistrationTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "316">
+               </Location>
+               <Location
+                  uuid = "D997B62E-B704-4280-899F-CCCE3FECD1A9 - 7ef11e25005d506d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelBooking.AddRegistrationTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; HotelBooking.AddRegistrationTableViewController"
+                  moduleName = "HotelBooking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/HotelBooking/HotelBooking/AddRegistrationTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "340">
+               </Location>
+               <Location
+                  uuid = "D997B62E-B704-4280-899F-CCCE3FECD1A9 - dd461f8eea9e1fae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelBooking.AddRegistrationTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;HotelBooking.AddRegistrationTableViewController&gt;"
+                  moduleName = "HotelBooking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/HotelBooking/HotelBooking/AddRegistrationTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "316">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "537C4439-E8E7-445C-AFDC-85F50A90909B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HotelBooking/AddRegistrationTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "AddRegistrationTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "537C4439-E8E7-445C-AFDC-85F50A90909B - 5b0fb907c7ef07b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelBooking.AddRegistrationTableViewController.CheckOutDateLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "HotelBooking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/HotelBooking/HotelBooking/AddRegistrationTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "537C4439-E8E7-445C-AFDC-85F50A90909B - 9e316902a0777d7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelBooking.AddRegistrationTableViewController.CheckOutDateLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "HotelBooking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/HotelBooking/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "537C4439-E8E7-445C-AFDC-85F50A90909B - 3eea87d8dccd0cfb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelBooking.AddRegistrationTableViewController.init(style: __C.UITableViewStyle) -&gt; HotelBooking.AddRegistrationTableViewController"
+                  moduleName = "HotelBooking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/HotelBooking/HotelBooking/AddRegistrationTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "388">
+               </Location>
+               <Location
+                  uuid = "537C4439-E8E7-445C-AFDC-85F50A90909B - 7ef11e25005d506d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelBooking.AddRegistrationTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; HotelBooking.AddRegistrationTableViewController"
+                  moduleName = "HotelBooking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/HotelBooking/HotelBooking/AddRegistrationTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "412">
+               </Location>
+               <Location
+                  uuid = "537C4439-E8E7-445C-AFDC-85F50A90909B - 3ace14a5924a67c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelBooking.AddRegistrationTableViewController.CheckInDateDatePicker.getter : Swift.Optional&lt;__C.UIDatePicker&gt;"
+                  moduleName = "HotelBooking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/HotelBooking/HotelBooking/AddRegistrationTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "537C4439-E8E7-445C-AFDC-85F50A90909B - d39cc30121ff2670"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelBooking.AddRegistrationTableViewController.CheckInDateDatePicker.setter : Swift.Optional&lt;__C.UIDatePicker&gt;"
+                  moduleName = "HotelBooking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/HotelBooking/HotelBooking/AddRegistrationTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "537C4439-E8E7-445C-AFDC-85F50A90909B - bba4f026f5836494"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelBooking.AddRegistrationTableViewController.CheckInDateDatePicker.modify : Swift.Optional&lt;__C.UIDatePicker&gt;"
+                  moduleName = "HotelBooking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/HotelBooking/HotelBooking/AddRegistrationTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "537C4439-E8E7-445C-AFDC-85F50A90909B - 2fd0e693a7a81f98"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelBooking.AddRegistrationTableViewController.CheckInDateDatePicker.modify : Swift.Optional&lt;__C.UIDatePicker&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "HotelBooking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/HotelBooking/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "537C4439-E8E7-445C-AFDC-85F50A90909B - 3eea87d8dccd033d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelBooking.AddRegistrationTableViewController.init(style: __C.UITableViewStyle) -&gt; HotelBooking.AddRegistrationTableViewController"
+                  moduleName = "HotelBooking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/HotelBooking/HotelBooking/AddRegistrationTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "352">
+               </Location>
+               <Location
+                  uuid = "537C4439-E8E7-445C-AFDC-85F50A90909B - 7ef11e25005d5fab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelBooking.AddRegistrationTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; HotelBooking.AddRegistrationTableViewController"
+                  moduleName = "HotelBooking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/HotelBooking/HotelBooking/AddRegistrationTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "376">
+               </Location>
+               <Location
+                  uuid = "537C4439-E8E7-445C-AFDC-85F50A90909B - dd461f8eea9e1068"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelBooking.AddRegistrationTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;HotelBooking.AddRegistrationTableViewController&gt;"
+                  moduleName = "HotelBooking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/HotelBooking/HotelBooking/AddRegistrationTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "352">
+               </Location>
+               <Location
+                  uuid = "537C4439-E8E7-445C-AFDC-85F50A90909B - 9547ef07f374f67e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelBooking.AddRegistrationTableViewController.LastNameTextField.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "HotelBooking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/HotelBooking/HotelBooking/AddRegistrationTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "537C4439-E8E7-445C-AFDC-85F50A90909B - 2172ce05c4a6be72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelBooking.AddRegistrationTableViewController.LastNameTextField.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "HotelBooking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/HotelBooking/HotelBooking/AddRegistrationTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "537C4439-E8E7-445C-AFDC-85F50A90909B - 9947a8b07e56ca90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelBooking.AddRegistrationTableViewController.LastNameTextField.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "HotelBooking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/HotelBooking/HotelBooking/AddRegistrationTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "537C4439-E8E7-445C-AFDC-85F50A90909B - a02ed9669f46cca0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelBooking.AddRegistrationTableViewController.LastNameTextField.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "HotelBooking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/HotelBooking/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "537C4439-E8E7-445C-AFDC-85F50A90909B - 3eea87d8dccd033d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelBooking.AddRegistrationTableViewController.init(style: __C.UITableViewStyle) -&gt; HotelBooking.AddRegistrationTableViewController"
+                  moduleName = "HotelBooking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/HotelBooking/HotelBooking/AddRegistrationTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "537C4439-E8E7-445C-AFDC-85F50A90909B - 7ef11e25005d5fab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelBooking.AddRegistrationTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; HotelBooking.AddRegistrationTableViewController"
+                  moduleName = "HotelBooking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/HotelBooking/HotelBooking/AddRegistrationTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "537C4439-E8E7-445C-AFDC-85F50A90909B - dd461f8eea9e1068"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelBooking.AddRegistrationTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;HotelBooking.AddRegistrationTableViewController&gt;"
+                  moduleName = "HotelBooking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/HotelBooking/HotelBooking/AddRegistrationTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "280">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
